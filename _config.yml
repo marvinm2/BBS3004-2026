@@ -1,0 +1,22 @@
+title: VHP4Safety Gene Mapping Project
+description: Comparing gene mapping approaches for pathway-based toxicity analysis
+theme: minima
+
+# GitHub Pages settings
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation
+header_pages:
+  - index.md
+  - resources.md
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
